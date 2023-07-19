@@ -1,0 +1,26 @@
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\ControlCheck\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\ControlCheck\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\ControlCheck\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\ControlCheck\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\ControlCheck\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\ControlCheck\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
